@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ecafee53-2011-4781-ba11-6080fbea10b0",
+    "german": "Vogel",
+    "arabic": "طائر",
+    "hint": "chi haja  katir",
+    "category": "A1/1",
+    "tags": [],
+    "createdAt": "2026-01-14T02:25:44.675Z",
+    "updatedAt": "2026-01-14T02:33:02.287Z"
+  },
+  {
+    "id": "95330b62-2f85-487f-a8ac-1fb6b7ce0e5a",
+    "german": "Vater",
+    "arabic": "أب",
+    "hint": "chi had 9rib mnk",
+    "category": "A1/1",
+    "tags": [],
+    "createdAt": "2026-01-14T02:28:08.511Z",
+    "updatedAt": "2026-01-14T02:33:19.108Z"
+  },
+  {
+    "id": "3b9c165c-5a4a-4859-b23e-562aa8893747",
+    "german": "Gabel",
+    "arabic": "شوكة",
+    "hint": "",
+    "category": "A1/1",
+    "tags": [],
+    "createdAt": "2026-01-14T02:55:37.677Z"
+  },
+  {
+    "id": "d8ea2a41-4686-4c82-9369-80a11a3758dd",
+    "german": "Provident impedit ",
+    "arabic": "In sit aliquam tenet",
+    "hint": "Facere nulla et erro",
+    "category": "B1/2",
+    "tags": [
+      "In atque eu dolores"
+    ],
+    "hasAudio": false,
+    "createdAt": "2026-01-14T03:14:42.302Z"
+  },
+  {
+    "id": "e8522081-26b9-41e1-9463-7986be30a611",
+    "german": "Commodo rerum rerum ",
+    "arabic": "Quia illum nostrum ",
+    "hint": "Omnis esse laborum ",
+    "category": "A2/2",
+    "tags": [
+      "Id ut excepteur duci"
+    ],
+    "hasAudio": true,
+    "createdAt": "2026-01-14T03:19:56.139Z"
+  }
+]

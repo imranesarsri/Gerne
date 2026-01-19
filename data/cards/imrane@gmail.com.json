@@ -1,0 +1,97 @@
+[
+  {
+    "id": "04966072-2756-446d-86e6-867b923efa1f",
+    "german": "Gabel",
+    "arabic": "شوكة",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [
+      "jj"
+    ],
+    "hasAudio": true,
+    "type": "word",
+    "createdAt": "2026-01-17T21:51:49.221Z",
+    "updatedAt": "2026-01-17T22:42:38.730Z"
+  },
+  {
+    "id": "6e023d9f-ca3e-442b-b118-d3da0764a571",
+    "german": "Apfel",
+    "arabic": "تفاحة",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [],
+    "hasAudio": false,
+    "type": "word",
+    "createdAt": "2026-01-17T21:52:16.090Z"
+  },
+  {
+    "id": "d3eb4d5f-0cac-4fe3-99ab-aeb6278e7475",
+    "german": "Bus",
+    "arabic": "حافلة",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [],
+    "hasAudio": false,
+    "type": "word",
+    "createdAt": "2026-01-17T21:52:40.793Z"
+  },
+  {
+    "id": "8b1355c3-cc43-425f-9aff-3390f6804d29",
+    "german": "Buch",
+    "arabic": "كتاب",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [],
+    "hasAudio": false,
+    "type": "word",
+    "createdAt": "2026-01-17T21:53:15.088Z"
+  },
+  {
+    "id": "c62d2dc6-6fe5-4f5e-99bf-e7963aea0027",
+    "german": "Ich",
+    "arabic": "أنا",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [],
+    "hasAudio": false,
+    "type": "word",
+    "createdAt": "2026-01-17T21:53:30.415Z"
+  },
+  {
+    "id": "8e0a9302-af25-47ec-b819-cf89fe8d62d0",
+    "german": "Schule",
+    "arabic": "مدرسة",
+    "hint": "",
+    "category": "A1-1",
+    "tags": [],
+    "hasAudio": false,
+    "type": "word",
+    "createdAt": "2026-01-17T21:53:48.207Z"
+  },
+  {
+    "id": "e0fb1753-8135-4eec-afd0-9088a068ef6e",
+    "german": "Ea ut maiores qui ip",
+    "arabic": "Laudantium aut simi",
+    "hint": "Asperiores eiusmod i",
+    "category": "A1-1",
+    "tags": [
+      "Minim rerum sint in"
+    ],
+    "hasAudio": false,
+    "type": "phrase",
+    "createdAt": "2026-01-17T22:34:36.834Z"
+  },
+  {
+    "id": "1855ea66-5ff0-499a-8c8e-053d99b81eda",
+    "german": "Commodi quaerat susc",
+    "arabic": "Veniam eos dolorem",
+    "hint": "Rem rerum voluptatib",
+    "category": "C2",
+    "tags": [
+      "Qui temporibus commo"
+    ],
+    "hasAudio": true,
+    "type": "phrase",
+    "createdAt": "2026-01-17T22:40:56.811Z"
+  }
+]
